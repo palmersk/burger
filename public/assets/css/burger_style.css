@@ -1,0 +1,31 @@
+body {
+    background-color: tan;
+}
+
+.jumbotron {
+    background: none;
+    color: red;
+}
+
+#burger-header {
+    width: 25%;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    list-style: none;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
